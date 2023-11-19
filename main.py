@@ -148,20 +148,22 @@ def speak_text(text):
 
 def main():
     while True:
-        print("1. Open Notepad")
-        print("2. Open Google Chrome (google.com)")
-        print("3. Open WhatsApp")
-        print("4. Convert Name to Example Email")
-        print("5. Send SMS with Random Number")
-        print("6. Open ChatGPT Website")
-        print("7. Get Geolocation of a City")
-        print("8. Get Twitter Trends")
-        print("9. Get Top Posts with Hashtags")
-        print("10. Get Wikipedia Data")
-        print("11. Play Random Music")
-        print("12. Play Video")
-        print("13. Control Speaker Sound")
-        print("0. Exit")
+      print("1. Open Notepad"
+            "2. Open Google Chrome"
+            "3. Open WhatsApp"
+            "4. Convert Name to Example Email"
+            "5. Send SMS with Random Number"
+            "6. Open ChatGPT Website"
+            "7. Get Geolocation of a City"
+            "8. Get Twitter Trends"
+            "9. Get Top Posts with Hashtags"
+            "10. Get Wikipedia Data"
+            "11. Play Random Music"
+            "12. Play Video"
+            "13. Control Speaker Sound"
+             "0. Exit"
+
+      )
 
         choice = input("Enter your choice: ")
 
